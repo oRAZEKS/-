@@ -1,7 +1,8 @@
 import hashlib
-password = input(9)
+password = input()
 hash_password = hashlib.sha256(password.encode()).hexdigest()
 print (hash_password)
+
 
 
 
