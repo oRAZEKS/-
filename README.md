@@ -10,5 +10,6 @@ hash_result = sha256_hash(input_string)
 print(f"SHA-256 хеш для '{input_string}':\n{hash_result}")
 
 то что получим на выходе 
-HA-256 хеш для 'Hello, world!':
+SHA-256 хеш для 'Hello, world!':
 dffd6021bb2bd5b0af67629080tc9d19d2e0e7b2774e4df095d52910b514e61a
+
